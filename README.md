@@ -3,6 +3,7 @@
 목표 
 1. MVVM, Clean Architecture
 2. android architecture components 적용
+3. Offline mode적용
 
 
 참고 자료
