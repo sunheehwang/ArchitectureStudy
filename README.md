@@ -22,6 +22,7 @@
 
 --------
 
+(For Novice)
 
 목표 : PhotoViewer의 구현을 통해 안드로이드 프로젝트를 세팅하고, 중요 라이브러리를 사용할 수 있다.
 언어 : kotlin, jetpack
